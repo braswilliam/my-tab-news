@@ -12,7 +12,7 @@ Meu guia Pessoal de noticias
 
 
 
-Aqui daremos inicio a um dos meus projetos mais complexos da minha carreira como desenvolvedor.
+Aqui daremos inicio a um dos projetos mais complexos da minha carreira como desenvolvedor.
 Tudo que sair daqui será com muito suor e esforço.
-Espero que gostem
+Espero que gostem.😊
 

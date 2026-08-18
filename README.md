@@ -1,16 +1,14 @@
-# my-tab-news 
+# my-tab-news
 
 Meu guia Pessoal de noticias
 
 
+
 ## Apresentação:
 
-### William
+#### 
 
 #### Desenvolvedor Java há mais de 5 anos.
-
-
-\# 
 
 
 
